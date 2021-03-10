@@ -21,5 +21,4 @@ None
 None
 
 ## Created by 
-Jason Francis
-```
+Jamie Dunbar
